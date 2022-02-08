@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @File    : 2_vii.py
-# @Author  : Zichi Zhang
-# @Date    : 2021/12/21
-# @Software: PyCharm
 import numpy as np
 import cvxpy as cp
 import scipy as sp
